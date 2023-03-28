@@ -1,0 +1,15 @@
+body{
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.cntr{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin: auto;
+}
+
+.mrgn{
+    margin-top: 50px;
+}
